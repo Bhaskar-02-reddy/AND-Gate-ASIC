@@ -1,0 +1,8 @@
+# Simulation artifacts
+and_gate_sim
+*.vcd
+*.vvp
+
+# Temporary files
+*.log
+*.tmp
